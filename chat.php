@@ -9,7 +9,7 @@
 			font-size:12pt;
 
 			border-bottom: 1px solid gray;
-
+			color:blue;
 		}
 		form{
 
